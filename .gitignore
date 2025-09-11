@@ -1,0 +1,8 @@
+# ! this is structured as a whitelist !
+
+# ignore everything
+*
+!*/
+
+# track this file
+!.gitignore
