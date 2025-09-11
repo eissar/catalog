@@ -1,6 +1,6 @@
 ---
 # weight: 999
-title: "Userchromes Snippets"
+title: "Userchrome.js Snippets"
 description: ""
 icon: "article"
 date: "2024-09-11"
