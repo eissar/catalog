@@ -1,11 +1,9 @@
----
-draft: false
----
 
 [[notetaking.map]]
 
 ## Link format
-![eagle://item/LVMNXS002DV0A](http://workstation:3000/eagleApp/images/LVMNXS002DV0A)
+eagle://item/LVMNXS002DV0A http://workstation:3000/eagleApp/images/LVMNXS002DV0A
+
 
 ## Table format
 
