@@ -13,4 +13,4 @@ This makes absolute language a canary to notify one of illogical emotional think
 
 [[well-regulated#sustained uncertainty]]
 
-view this file in github : ->
+view this file in GitHub : ->
