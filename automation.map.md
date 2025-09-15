@@ -2,6 +2,8 @@
 title: Automation
 draft: false
 ---
+# Automation
+
 > Dumb people want smart things to work for them.
 Smart people know things are to fucking stupid to work without being controlled.
 - Random internet user, 2025-03
@@ -19,7 +21,9 @@ with machines to enslave them."
 - Frank Herbert, Dune
 
 
-> This is how I build systems, both in my life and professionally. <br> * **Humanize**  Do everything manually, on paper if needed, for many iterations. <br> * **Organize**  Notice the patterns that are creeping into your methods. <br> * **Mechanize**  Automate those patterns in a system, either by writing checklists, flowcharts or software.[1]
-- <https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md>;
+> This is how I build systems, both in my life and professionally. <br> * **Humanize**  Do everything manually, on paper if needed, for many iterations. <br> * **Organize**  Notice the patterns that are creeping into your methods. <br> * **Mechanize**  Automate those patterns in a system, either by writing checklists, flowcharts or software.[^1]
 
 [[humanize-optimize-mechanize]]
+
+[^1]: https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md
+- No BoilerPlate
