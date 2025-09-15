@@ -12,7 +12,7 @@ THEREFORE A COMPUTER MUST NEVER
 MAKE A MANAGEMENT DECISION
 - IBM slide circa 1979
 
-"Once men turned their thinking over to
+>"Once men turned their thinking over to
 machines in the hope that this would set
 them free. But that only permitted other men
 with machines to enslave them."
@@ -20,6 +20,6 @@ with machines to enslave them."
 
 
 > This is how I build systems, both in my life and professionally. <br> * **Humanize**  Do everything manually, on paper if needed, for many iterations. <br> * **Organize**  Notice the patterns that are creeping into your methods. <br> * **Mechanize**  Automate those patterns in a system, either by writing checklists, flowcharts or software.[1]
-<https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md>
+- <https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md>;
 
 [[humanize-optimize-mechanize]]
