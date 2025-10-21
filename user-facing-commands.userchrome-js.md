@@ -1,5 +1,6 @@
 ---
 # weight: 999
+title: User Facing Commands
 icon: "article"
 date: "2025-09-10T22:07:19-04:00"
 lastmod: "2025-09-10T22:07:19-04:00"
