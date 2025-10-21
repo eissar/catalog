@@ -1,3 +1,7 @@
+---
+title: markdown syntax
+draft: true
+---
 
 [[notetaking.map]]
 
@@ -16,7 +20,7 @@ Web: <https://www.link-to-website.com>
 
 Wiki Links (for use in markdown, marksman etc.)
 
-[/[./relative-file-path.ext]]
+`[[./relative-file-path.ext]]`
 
 ## Comments
 comments: <!----->
@@ -36,3 +40,8 @@ Format
     ?<Summary>
     <Explanation>
     <Links>
+
+language servers:
+vale
+marksman
+

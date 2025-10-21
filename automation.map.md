@@ -1,6 +1,5 @@
 ---
 title: Automation
-draft: false
 ---
 # Automation
 

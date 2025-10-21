@@ -1,3 +1,7 @@
+---
+title: "Absolute Emotional Language"
+draft: true
+---
 Absolute Statements like 'All of...' etc. Are correlated with greater brain activity in the
 - ?Hippocampus
 - ?Amygdala

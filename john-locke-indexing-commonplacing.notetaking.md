@@ -1,3 +1,7 @@
+---
+title: Commonplacing
+draft: true
+---
 John locke's method for indexing
 
 >When I meet with any thing, that I think fit to put into my common-place-book, I first find a proper head. Suppose for example that the head be EPISTOLA, I look unto the index for the first letter and the following vowel which in this instance are E. i. if in the space marked E. i. there is any number that directs me to the page designed for words that begin with an E and whose first vowel after the initial letter is I, I must then write under the word Epistola in that page what I have to remark.
