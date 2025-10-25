@@ -92,10 +92,21 @@ Theory crafting, fanfiction
 Why does losing yourself in the sauce look so pathetic and cringe?
 
 ## immature art
+Shounen means 'young man' in japanese.
+
+roguelikes and other 'infinite' genres have exploded in popularity
+
+it's interesting to see that people are interfacing with art not as a vehicle for contemplation or growth.
+mediums like that - short stories, poetry - are largely on the decline.
+
+instead people are interfacing with art which is becoming more and more `immersive`.
+when people are not satisfied with what they've been given of a story and demand more and more content - is that a sign of escapism?
+
+
 The audience of the genre is largely immature, why?
 - because shounen manga also has elements of `fantasy` and `wish fulfillment`
 
 is skepticism really mature?
 - no
-[[irony-poisoning
+[[irony-poisoning]]
 
