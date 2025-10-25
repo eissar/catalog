@@ -16,36 +16,40 @@ the writer of spy x family:
 Tatsuya Endo originally used his character design of ... in Rengoku no Ashe
 that one shot also has mirrored themes of darker themes (slightly dark), romantic tragedies, and found family
 
-am I forcing this connection?
 > “I gave up on what I originally wanted to draw and drew what the world wants to see, not myself, so I have no attachment to the characters (laughs).”
 
 market or audience pressures inevitably have an effect on the end product of any art.
 
-people like curtis yarvin am i misremembering?
-have written about how
-[[art-product-of-its-age]]
-
-Arguments for why this is the case include defining the prevailing values, struggles, political structures, culture etc.
-
-if culture majorly defines ones' ethics, and [[cool-is-aspiration#your moral beliefs inform your aesthetic attractions]] then art is not just a product of it's age, art is a product of the ages' prevailing values, assumptions, and ...
-
-however far an individual artist can divorce themselves from this fact defines how esoteric and `noisy` their art is percieved by others.
-
-an inefficient market is one
 an efficient market is where everyone is 'sold out'
 
+am I forcing this connection?
+
+## The free market wants slop
+
+- define slop
+
+a characteristic of slop is also the transparency of the contract between you and it.
+it doesn't pretend as if
+it's straightforward; there is no pretense, and it isn't pretentious
+
+
+people have written about how
+[[art-product-of-its-age]]
 https://x.com/eshaanissar/status/1979116498040860711
 
-It's an interesting fantasy of mine that an artist could communicate
+It's an interesting fantasy of mine that an artist could communicate the most specific emotion given enough craft
+
 It would take an insane amount of proprioception and mental maturity to self-diagnose ones' values and establish a body of work an audience member could consume to
+educate them on the sensibilities it took to feel that specific emotion
 
-
+one of my friends coined the word 'slippage' to define the difference in vision and end product
+and the sibling word 'craft' as the skill to reduce slippage
 
 its rare that an artists' vision aligns with the palette of their target audience..
-[[audience-palettability]]
+<!-- [[audience-palettability]] -->
 
 > artists convert chaos into something understandable
-[[art-is-negentropic]]
+<!-- [[art-is-negentropic]] -->
 
 audiences need some anchoring to things they've seen before, as they are not creators themselves and so cannot be expected to be as thematically or artistically literate as the author
 
