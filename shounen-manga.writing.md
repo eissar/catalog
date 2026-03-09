@@ -60,8 +60,6 @@ so what is the point of popular media?
 ## What is the point
 (of popular media)
 
-
-
 ...
 but with popular media, the relationship is more...
 
@@ -74,8 +72,9 @@ Does depth require some level of conceit
 
 Sincerity
 
-Empathy machine
-===
+
+[[empathy-machine]]
+
 Pop fiction as something to evoke real world simulated tribalism
 
 Pop fiction as a socialization vehicle
@@ -108,5 +107,6 @@ The audience of the genre is largely immature, why?
 
 is skepticism really mature?
 - no
+
 [[irony-poisoning]]
 
