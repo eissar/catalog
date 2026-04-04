@@ -16,7 +16,7 @@ Which leads to the Note/Quotation
 <https://publicdomainreview.org/collection/john-lockes-method-for-common-place-books-1685/>
 
 
-## His is a system derived from intuition
+## Systems Derived from intuition
 
 * Follows the  natural way one intuitively remembers a word, again in **1685** he came up with this method;
 
