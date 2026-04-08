@@ -9,12 +9,9 @@ Absolute Statements like 'All of...' etc. Are correlated with greater brain acti
 
 --> find references
 
-This makes absolute language a canary to notify one of illogical emotional thinking
+absolute language can be a canary that indicates illogical emotional thinking
+
+#heuristics-for-gauging-mental-state #interoception
 
 [[folly-in-logic]]
-
-> Only siths deal in absolutes
-
 [[well-regulated#sustained uncertainty]]
-
-view this file in GitHub : ->
