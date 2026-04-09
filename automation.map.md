@@ -19,10 +19,9 @@ them free. But that only permitted other men
 with machines to enslave them."
 - Frank Herbert, Dune
 
+## Humanize Optimize Mechanize
 
 > This is how I build systems, both in my life and professionally. <br> * **Humanize**  Do everything manually, on paper if needed, for many iterations. <br> * **Organize**  Notice the patterns that are creeping into your methods. <br> * **Mechanize**  Automate those patterns in a system, either by writing checklists, flowcharts or software.[^1]
 
-[[humanize-optimize-mechanize]]
-
-[^1]: https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md
+[^1]: <https://github.com/0atman/noboilerplate/raw/refs/heads/main/scripts/27-coping-mechanisms.md>
 - No BoilerPlate

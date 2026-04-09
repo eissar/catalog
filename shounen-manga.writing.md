@@ -46,10 +46,10 @@ one of my friends coined the word 'slippage' to define the difference in vision 
 and the sibling word 'craft' as the skill to reduce slippage
 
 its rare that an artists' vision aligns with the palette of their target audience..
-<!-- [[audience-palettability]] -->
+[[audience-palettability]] [[unusable-artists
 
 > artists convert chaos into something understandable
-<!-- [[art-is-negentropic]] -->
+[[art-is-negentropic]]
 
 audiences need some anchoring to things they've seen before, as they are not creators themselves and so cannot be expected to be as thematically or artistically literate as the author
 

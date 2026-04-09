@@ -14,4 +14,4 @@ absolute language can be a canary that indicates illogical emotional thinking
 #heuristics-for-gauging-mental-state #interoception
 
 [[folly-in-logic]]
-[[well-regulated#sustained uncertainty]]
+[[well-regulated#Embracing Uncertainty]]

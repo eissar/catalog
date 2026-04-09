@@ -6,4 +6,4 @@ Initially heard from Jorge R. Gutierrez at LBX 2024
 'Empathy Machine'
 
 ## Additional Reading:
-https://danallison.info/writings/cartoon-magick
+<https://danallison.info/writings/cartoon-magick>
