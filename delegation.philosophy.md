@@ -16,7 +16,6 @@ We should only offload to computers things we don't want to do.
 
 Otherwise they are living in place of us
 
-## References
 [^1]: <https://youtu.be/5KmpT-BoVf4?si=hdKWeaa3pNO1oQL8&t=2978>
 Sam Altman on God, Elon Musk and the Mysterious Death of His Former Employee
 (tucker carlson interview with sam altman)

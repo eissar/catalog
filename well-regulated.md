@@ -112,8 +112,13 @@ reword this sensational description of learned helplessness: (though you saved i
 
 learned helplessness is the default state of humans. anything else is closer to godliness / god / divine
 
+most people are unserious
+
+> Too many times, people don't try their best. They don't have the keen spirit; the winning spirit. And once you make It you've got to guard your reputation - every day go in like an unknown to prove yourself. That's why I don't clown around. I don't believe In wasting time.[^2]
+
+
 
 ## References
 [^1]: https://www.chsalliance.org/get-support/article/ten-psychological-tactics-for-avoiding-accountability-and-how-to-address-them/
 
-
+[^2]: Bobby fisher
