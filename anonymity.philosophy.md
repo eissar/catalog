@@ -9,4 +9,4 @@ Relations with people involve some level of entanglement;
 [[meditation.map#Bhakti]]
 
 
-[^1]: <https://x.com/noveltokens/status/2042672128953090199>
+[^1]: https://x.com/noveltokens/status/2042672128953090199
